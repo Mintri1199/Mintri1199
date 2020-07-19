@@ -1,1 +1,1 @@
-[alt text] ()
+![Alt](/assets/Welcome.png)
