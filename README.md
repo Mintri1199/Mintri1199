@@ -1,1 +1,1 @@
-![python anime](https://imgur.com/lHVCdzG)
+![python anime](https://i.imgur.com/lHVCdzG.png)
